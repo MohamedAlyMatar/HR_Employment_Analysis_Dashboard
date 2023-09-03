@@ -10,5 +10,7 @@ Using a Human resources data set for employees, I performed data cleaning, and a
 **Data Visualization** - PowerBI
 
 ## Dashboard :
+
 ![image](imgs\page1.jpeg)
+
 ![image](imgs\page2.jpeg)
