@@ -11,6 +11,6 @@ Using a Human resources data set for employees, I performed data cleaning, and a
 
 ## Dashboard :
 
-![page 1](imgs\page1.jpeg)
+![page 1](imgs/page1.jpeg)
 
-![page 2](imgs\page2.jpeg)
+![page 2](imgs/page2.jpeg)
