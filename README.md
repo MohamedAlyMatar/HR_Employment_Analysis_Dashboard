@@ -1,5 +1,5 @@
 # HR_Employment_Analysis_Dashboard
-Using a Human resources data set for employees, I performed data cleaning, and analyzing using SQL queries and PowerBI for visualizing
+Using a Human resources data set for employees, I performed data cleaning, and analysis using SQL queries and PowerBI to visualize
 
 ## Data Used :
 
@@ -11,5 +11,6 @@ Using a Human resources data set for employees, I performed data cleaning, and a
 
 ## Dashboard :
 
-![image](imgs/page1.jpeg)
-![image](imgs/page2.jpeg)
+![page 1](imgs\page1.jpeg)
+
+![page 2](imgs\page2.jpeg)
